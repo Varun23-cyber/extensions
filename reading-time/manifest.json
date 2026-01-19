@@ -12,3 +12,14 @@
     "128":"images/icon-128.png",
   }
 }
+{
+  "content_scripts": [
+    {
+      "js":["scripts/content.js"],
+      "matches":[
+        "https://devloper.chrome.com/docs/extensions/*",
+        "https://devloper.chrome.com/docs/webstroe/*"
+      ]
+    }
+  ]
+}
