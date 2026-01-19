@@ -1,1 +1,1 @@
-web Extension
+Chrome Extensions
